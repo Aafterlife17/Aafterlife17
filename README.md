@@ -6,7 +6,7 @@
 
 - 🌱 This is the repo to my latest project: [Tech Talent Hub](https://github.com/Equipo3Henry/tech-talent-hub-actual)
 
-- - 📫 How to reach me: **natalia.malvicino@outlook.com**
+- 📫 How to reach me: **natalia.malvicino@outlook.com**
 
 - 📝 You can also reach me via LinkedIn: [https://www.linkedin.com/in/nataliamalvicino/](https://www.linkedin.com/in/nataliamalvicino/)
 
