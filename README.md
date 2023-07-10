@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: **natalia.malvicino@outlook.com**
 
-- 📝 You can also reach me via LinkedIn: [https://www.linkedin.com/in/nataliamalvicino/](https://www.linkedin.com/in/nataliamalvicino/)
-
 - ⚡ Fun fact: **My favourite videogame is The Legend of Zelda: Ocarina of Time.**
 
   
