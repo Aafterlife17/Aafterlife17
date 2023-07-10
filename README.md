@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natalia.</h1>
 <h3 align="center">Thank you for visiting my profile.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aafterlife17" alt="aafterlife17" /></a> </p>
-
 - 🌱 This is the repo to my latest project: [Tech Talent Hub](https://github.com/Equipo3Henry/tech-talent-hub-actual)
 
 - 📝 You can also reach me via LinkedIn: [https://www.linkedin.com/in/nataliamalvicino/](https://www.linkedin.com/in/nataliamalvicino/)
