@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natalia.</h1>
-<h3 align="center">Thank you for visiting my profile.</h3>
+
+
+
+<h3 align="center">I'm a Full-Stack Developer and Graphic Designer. Thank you for visiting my profile!</h3>
 
 - 🌱 This is the repo to my latest project: [Tech Talent Hub](https://github.com/Equipo3Henry/tech-talent-hub-actual)
 
@@ -7,7 +10,9 @@
 
 - 📫 How to reach me: **natalia.malvicino@outlook.com**
 
-- ⚡ Fun fact **My favourite videogame is The Legend of Zelda: Ocarina of Time.**
+- ⚡ Fun fact: **My favourite videogame is The Legend of Zelda: Ocarina of Time.**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
